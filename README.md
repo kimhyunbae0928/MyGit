@@ -1,5 +1,5 @@
 # MyGit
+<<<<<<< HEAD
+=======
 Hi have a good time
-
-This is ------1
-This is ------2
+>>>>>>> parent of db64207 (Merge pull request #1 from kimhyunbae0928/PPP)
